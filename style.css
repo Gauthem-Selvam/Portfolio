@@ -1,0 +1,100 @@
+/********************
+
+
+COMMON
+
+
+*********************/
+body {
+  font-family: "monospace", sans-serif;
+}
+.font-primary {
+  color: #00abae;
+}
+.title-icon {
+  font-size: 20px;
+  font-weight: bold;
+}
+.nav-link {
+  font-weight: bold !important;
+}
+/********************
+
+
+ABOUT
+
+
+*********************/
+.name {
+  font-weight: bold;
+}
+.Vocation {
+  font-weight: bold;
+}
+.skills {
+  font-size: 15px;
+  color: #00abae;
+  margin-bottom: 10px;
+}
+#about {
+  margin: 60px auto;
+  max-width: 400px;
+  text-align: center;
+}
+#about img {
+  border-radius: 100%;
+  width: 120px;
+  margin-bottom: 10px;
+  border-color: black;
+  outline-color: black;
+}
+#about .name {
+  font-size: 20px;
+}
+#about .Vocation {
+  font-size: 17px;
+  color: #a8a8ab;
+  margin-bottom: 20px;
+  text-align: center;
+}
+p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+.email {
+  margin-top: 14px;
+  font-size: 16px;
+}
+.icons a {
+  color: #000 !important;
+  margin-top: 20px;
+  font-size: 30px;
+}
+a.font-black {
+  color: #000 !important;
+}
+
+/*********************
+
+PROJECT
+
+
+***********************/
+#projects {
+  margin: 60px auto;
+  width: 80%;
+}
+#projects h2 {
+  text-align: center;
+}
+#projects .card img {
+  width: 100%;
+}
+.card-title {
+  font-weight: bold;
+}
